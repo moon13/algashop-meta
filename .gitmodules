@@ -4,3 +4,6 @@
 [submodule "docs"]
 	path = docs
 	url = git@github.com:moon13/algashop-docs.git
+[submodule "microservices/algashop-billing"]
+	path = microservices/algashop-billing
+	url = git@github.com:moon13/algashop-billing.git
